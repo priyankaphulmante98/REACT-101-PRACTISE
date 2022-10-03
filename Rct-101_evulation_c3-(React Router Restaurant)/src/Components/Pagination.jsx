@@ -10,9 +10,10 @@ function Pagination({ totalPages, currentPage, handlePageChange }) {
       onClick={() => handlePageChange(i + 1)}
       data-testid="page-btn"
     >
-
       {i + 1}
+
     </button>
+    
   ));
   
   return <div>{pages}</div>;

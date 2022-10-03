@@ -1,0 +1,363 @@
+[
+    {
+      "id": 1,
+      "restaurantName": "Captain Egg",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/3/18932443/e53e01a55e342a9fbaa1c523004b9c2e_o2_featured_v2.jpeg?output-format=webp",
+      "categories": ["Street-Food", "Fast-Food", "North-Indian"],
+      "min": 120,
+      "cost_for_one": 300,
+      "cost_for_two": 500,
+      "rating": 3.9,
+      "reviews": 245,
+      "votes": 653,
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 2,
+      "restaurantName": "Barma Egg Point",
+      "image": "https://b.zmtcdn.com/data/pictures/8/19278758/07c6abd1f6410aaa1c10105a90362f95_o2_featured_v2.jpg?output-format=webphttps://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yqz2rq9lq0vy6ktak6cz",
+      "categories": ["Street-Food"],
+      "min": 230,
+      "cost_for_one": 390,
+      "cost_for_two": 720,
+      "rating": 1.4,
+      "reviews": 543,
+      "votes": 345,
+      "payment": {
+        "card": false,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 3,
+      "restaurantName": "Dangee Dums",
+      "image": "https://b.zmtcdn.com/data/pictures/2/18577712/046925bc09846cec748166268308b082_o2_featured_v2.png?output-format=webp",
+      "categories": ["Bakery", "Desserts"],
+      "min": 500,
+      "cost_for_one": 700,
+      "cost_for_two": 1200,
+      "rating": 4.6,
+      "reviews": 341,
+      "votes": 643,
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 4,
+      "restaurantName": "Sagar Dairy",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/1/18934171/da1c664d132b7b72f9dc89493e6a8f87_o2_featured_v2.jpg?output-format=webp",
+      "categories": ["Mithai", "Beverages"],
+      "min": 90,
+      "cost_for_one": 110,
+      "cost_for_two": 180,
+      "rating": 3.1,
+      "reviews": 352,
+      "votes": 675,
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 5,
+      "restaurantName": "Kamats",
+      "image": "https://b.zmtcdn.com/data/pictures/3/18901193/5a9f42539518e6c943c88000cf26dffe_o2_featured_v2.jpg?output-format=webp",
+      "cost_for_one": 241,
+      "cost_for_two": 345,
+      "min": 45,
+      "reviews": 734,
+      "votes": 642,
+      "rating": 1.7,
+      "categories": ["South-Indian", "North-Indian", "Chinese"],
+      "payment": {
+        "card": true,
+        "upi": false,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 6,
+      "restaurantName": "Bella Capri Pizzeria",
+      "image": "https://b.zmtcdn.com/data/pictures/1/3800661/8db381fa32b2bb434ae86c8e26079b8a_o2_featured_v2.jpg?output-format=webp",
+      "cost_for_one": 234,
+      "cost_for_two": 456,
+      "min": 210,
+      "reviews": 234,
+      "votes": 456,
+      "rating": 2.5,
+      "categories": ["Pizza", "Italian", "Sandwich"],
+      "payment": {
+        "card": false,
+        "upi": false,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 7,
+      "restaurantName": "Ab's Kitchen",
+      "image": "https://b.zmtcdn.com/data/pictures/8/19280538/9d7cbf38c881df788676645e552aa855_o2_featured_v2.jpg?output-format=webp",
+      "cost_for_one": 346,
+      "cost_for_two": 574,
+      "min": 134,
+      "reviews": 798,
+      "votes": 987,
+      "rating": 4.1,
+      "categories": ["Italian", "Fast-Food", "Desserts"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 8,
+      "restaurantName": "Ground Up Cafe",
+      "image": "https://b.zmtcdn.com/data/pictures/1/19176701/8dea150e54ed6019f862d6e532e39828_o2_featured_v2.jpg?output-format=webp",
+      "cost_for_one": 223,
+      "cost_for_two": 456,
+      "min": 30,
+      "reviews": 854,
+      "votes": 59,
+      "rating": 3.5,
+      "categories": ["Street-Food", "Fast-Food"],
+      "payment": {
+        "card": false,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 9,
+      "restaurantName": "Top Taste",
+      "image": "https://b.zmtcdn.com/data/pictures/0/19037770/b4ba50ac633cb7dc1f342b51719af9b1_o2_featured_v2.jpg?output-format=webp",
+      "cost_for_one": 134,
+      "cost_for_two": 435,
+      "min": 100,
+      "reviews": 542,
+      "votes": 135,
+      "rating": 3.6,
+      "categories": ["Fast-Food", "North-Indian"],
+      "payment": {
+        "card": true,
+        "upi": false,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 10,
+      "restaurantName": "China Town",
+      "image": "https://b.zmtcdn.com/data/pictures/2/19175822/079b9681b4eb0601fb9e419dbc4d1c64_o2_featured_v2.jpg",
+      "cost_for_one": 395,
+      "cost_for_two": 674,
+      "min": 350,
+      "reviews": 456,
+      "votes": 543,
+      "rating": 4.1,
+      "categories": ["Chinese"],
+      "payment": {
+        "card": false,
+        "upi": true,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 11,
+      "restaurantName": "Mahadev Vadapav",
+      "image": "https://b.zmtcdn.com/data/pictures/4/19286814/1aa0976a60078869fa3c6da666e68d43_o2_featured_v2.jpg",
+      "cost_for_one": 130,
+      "cost_for_two": 200,
+      "min": 70,
+      "reviews": 543,
+      "votes": 34,
+      "rating": 3.9,
+      "categories": ["Fast-Food", "Street-Food"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 12,
+      "restaurantName": "Amdavadi Omlet Center",
+      "image": "https://b.zmtcdn.com/data/pictures/7/19483877/b011b1ae600396e11762e111e8c26701_o2_featured_v2.png",
+      "cost_for_one": 345,
+      "cost_for_two": 630,
+      "min": 125,
+      "reviews": 456,
+      "votes": 123,
+      "rating": 2.9,
+      "categories": ["Fast-Food", "North-Indian"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 13,
+      "restaurantName": "Ching-Ming Chinese",
+      "image": "https://b.zmtcdn.com/data/pictures/7/19483797/f56ff0d53bc15e958da3ba2b9788edd8_o2_featured_v2.jpg",
+      "cost_for_one": 457,
+      "cost_for_two": 678,
+      "min": 302,
+      "reviews": 456,
+      "votes": 132,
+      "rating": 2.5,
+      "categories": ["Chinese"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 14,
+      "restaurantName": "Home Aroma",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/4/19460024/bfc7f1e5d5c3af252aefcf1d92d7df79_o2_featured_v2.jpeg",
+      "cost_for_one": 890,
+      "cost_for_two": 1340,
+      "min": 356,
+      "reviews": 587,
+      "votes": 567,
+      "rating": 3.2,
+      "categories": ["Gujarati"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 15,
+      "restaurantName": "Neha Tiffin Service",
+      "image": "https://b.zmtcdn.com/data/pictures/4/19360394/8759c345458c0e158eb18252233b0426_o2_featured_v2.jpg",
+      "cost_for_one": 901,
+      "cost_for_two": 1700,
+      "min": 743,
+      "reviews": 567,
+      "votes": 456,
+      "rating": 4.2,
+      "categories": ["North-Indian", "Chinese", "Fast-Food", "South-Indian"],
+      "payment": {
+        "card": true,
+        "upi": false,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 16,
+      "restaurantName": "Pizza Halt",
+      "image": "https://b.zmtcdn.com/data/pictures/6/19436126/723b2d474baffb7034ce5d39499699eb_o2_featured_v2.jpg",
+      "cost_for_one": 567,
+      "cost_for_two": 834,
+      "min": 503,
+      "reviews": 456,
+      "votes": 342,
+      "rating": 2.4,
+      "categories": ["Pizza", "Italian", "Continental"],
+      "payment": {
+        "card": false,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 17,
+      "restaurantName": "Sugarbloom Handmade",
+      "image": "https://b.zmtcdn.com/data/pictures/7/19558317/60d1214a6da66b332a85cd3917b9f6d9_o2_featured_v2.jpg",
+      "cost_for_one": 657,
+      "cost_for_two": 1900,
+      "min": 620,
+      "reviews": 234,
+      "votes": 345,
+      "rating": 4.9,
+      "categories": ["Desserts", "Bakery"],
+      "payment": {
+        "card": false,
+        "upi": false,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 18,
+      "restaurantName": "Keralonam",
+      "image": "https://b.zmtcdn.com/data/pictures/0/19347520/9e9b278d824f0569279775232b2cc939_o2_featured_v2.jpg",
+      "cost_for_one": 200,
+      "cost_for_two": 512,
+      "min": 190,
+      "reviews": 146,
+      "votes": 654,
+      "rating": 3.1,
+      "categories": ["South-Indian", "North-Indian", "Fast-Food"],
+      "payment": {
+        "card": false,
+        "upi": false,
+        "cash": true
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 19,
+      "restaurantName": "Lemon Zest",
+      "image": "https://b.zmtcdn.com/data/pictures/5/19556685/e77e2e3c460ee8a49a3258bba7cacbc3_o2_featured_v2.jpg",
+      "cost_for_one": 234,
+      "cost_for_two": 564,
+      "min": 116,
+      "reviews": 634,
+      "votes": 456,
+      "rating": 3.3,
+      "categories": ["Chinese", "North-Indian"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": false
+      },
+      "is_favorite": false
+    },
+    {
+      "id": 20,
+      "restaurantName": "Ganesh Vadapav",
+      "image": "https://b.zmtcdn.com/data/pictures/3/19567183/d019029167eff25e62d941e57bf81ea1_o2_featured_v2.png",
+      "cost_for_one": 90,
+      "cost_for_two": 142,
+      "min": 20,
+      "reviews": 941,
+      "votes": 563,
+      "rating": 4.6,
+      "categories": ["Fast-Food", "Street-Food"],
+      "payment": {
+        "card": true,
+        "upi": true,
+        "cash": true
+      },
+      "is_favorite": false
+    }
+  ]
+  
